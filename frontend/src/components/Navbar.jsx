@@ -12,7 +12,7 @@ const Navbar = ({ setQuery }) => {
         {/* Logo */}
         <div className="text-2xl font-extrabold tracking-wide">
           <Link to="/" className="hover:text-teal-400 transition duration-300">
-            NoteApp
+            Mind Leaf
           </Link>
         </div>
 
